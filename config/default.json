@@ -1,0 +1,6 @@
+{
+    "port" : 5000,
+    "jwtSecret":"romusell full stack dev",
+    "mongoUrl": "mongodb+srv://Romusell:11111romusel@cluster0.cnjla.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
